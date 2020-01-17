@@ -12,7 +12,7 @@ var config = {
             id: 'songbyrd',
             title: 'First live show in D.C.: Songbyrd',
             //image: './path/to/image/source.png',
-            description: "Music-related events start with Soak at Songbyrd.",
+            description: "My first concert in D.C. started with Soak at Songbyrd. Songbyrd showcases a mix of indie bands that are up and coming. There's usually a decent turnout and fans are often committed.",
             location: {
                 center: [-77.04234, 38.92237],
                 zoom: 16.00,
@@ -50,7 +50,7 @@ var config = {
             id: 'Black Cat',
             title: "The All-in-one experience",
             //image: './path/to/image/source.png',
-            description: "Black Cat often has interesting shows, but also many DJ sessions. I went ot see The Chills there, which was full of nostalgia. Martin told us that last time they were in D.C. was almost thirty years ago."
+            description: "Black Cat often has interesting shows, but also many DJ sessions. I went ot see The Chills there, which was full of nostalgia. Martin told us that last time they were in D.C. was almost thirty years ago.",
             location: {
                 center: [-77.03162, 38.91458],
 zoom: 16.00,
